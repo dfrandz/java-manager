@@ -1,7 +1,7 @@
 spring:
   datasource:
     driverClassName: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/java_angular
+    url: jdbc:mysql://localhost:3306/java_manager
     username: root
     password:
   jpa:
